@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3la2ZLTPY4qPYQ+a7NmYSxl5mpUd5c5SOznhlzBL8Zmwf74SaNkpuUs5fR1I7gi5T3d6v6YprfnnopxDGSWWhg==",
+  "dgSpecHash": "Zv9m4nYvdbCHS6ApiahsZf4NDZAHgSatJRpCYEGwVLgLvYPr5qSQf2C+cMGlutYFjA86ExOdmDP7CdswFCF4ew==",
   "success": true,
-  "projectFilePath": "G:\\Mon Drive\\GitHub\\Jeu-de-nim\\Jeu de Nim\\Jeu de Nim.csproj",
+  "projectFilePath": "C:\\Users\\lulub\\Documents\\ControleCour\\Jeu-de-nim\\Jeu de Nim\\Jeu de Nim.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lulub\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\lulub\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

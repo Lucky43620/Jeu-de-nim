@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="frm_Accueil.cs">
+    <Compile Update="Vue\frm_Accueil.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Vue\frm_Connexion.cs">

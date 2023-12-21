@@ -1,3 +1,5 @@
+using Jeu_de_Nim.Vue;
+
 namespace Jeu_de_Nim
 {
     internal static class Program

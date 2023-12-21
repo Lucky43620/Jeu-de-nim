@@ -119,3 +119,127 @@ G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\runtimes\win\
 G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.csproj.CopyComplete
 G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.genruntimeconfig.cache
 G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\ref\Jeu de Nim.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Jeu de Nim.exe
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Jeu de Nim.deps.json
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Jeu de Nim.runtimeconfig.json
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Jeu de Nim.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Jeu de Nim.pdb
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.csproj.AssemblyReference.cache
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu_de_Nim.Vue.frm_Accueil.resources
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu_de_Nim.Vue.frm_Connexion.resources
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu_de_Nim.Vue.frm_Inscription.resources
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu_de_Nim.Vue.frm_Login.resources
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.csproj.GenerateResource.cache
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.AssemblyInfoInputs.cache
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.AssemblyInfo.cs
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.csproj.CoreCompileInputs.cache
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.sourcelink.json
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.csproj.CopyComplete
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\refint\Jeu de Nim.dll
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.pdb
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.genruntimeconfig.cache
+C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\ref\Jeu de Nim.dll
