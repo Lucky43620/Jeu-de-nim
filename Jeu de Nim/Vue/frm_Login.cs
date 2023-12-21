@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Jeu_de_Nim.Vue
 {
-    public partial class Login : Form
+    public partial class frm_Login : Form
     {
-        public Login()
+        public frm_Login()
         {
             InitializeComponent();
         }
