@@ -1,0 +1,121 @@
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.csproj.AssemblyReference.cache
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu_de_Nim.frm_Accueil.resources
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.csproj.GenerateResource.cache
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.AssemblyInfoInputs.cache
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.AssemblyInfo.cs
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.csproj.CoreCompileInputs.cache
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.sourcelink.json
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\refint\Jeu de Nim.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.pdb
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Jeu de Nim.exe
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Jeu de Nim.deps.json
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Jeu de Nim.runtimeconfig.json
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Jeu de Nim.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Jeu de Nim.pdb
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Azure.Core.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Azure.Identity.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Humanizer.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.Memory.Data.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.csproj.CopyComplete
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\Jeu de Nim.genruntimeconfig.cache
+G:\Mon Drive\GitHub\Jeu-de-nim\Jeu de Nim\obj\Debug\net8.0-windows\ref\Jeu de Nim.dll
