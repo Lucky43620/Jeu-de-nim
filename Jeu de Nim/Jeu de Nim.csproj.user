@@ -13,5 +13,8 @@
     <Compile Update="Vue\frm_Login.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Vue\frm_PartieSolo.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
