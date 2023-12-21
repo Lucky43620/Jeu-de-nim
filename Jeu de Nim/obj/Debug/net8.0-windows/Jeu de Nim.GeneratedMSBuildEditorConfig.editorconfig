@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Jeu_de_Nim
-build_property.ProjectDir = C:\Users\lulub\Documents\ControleCour\Jeu-de-nim\Jeu de Nim\
+build_property.ProjectDir = C:\Users\admin\Documents\GitHub\Jeu-de-nim\Jeu de Nim\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
